@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/print-with-space/1">Print With Space</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 14pt;">Given two strings<strong> a</strong> and <strong>b</strong>, print them on the same line with a single space between them. Print a newline after the output.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input</strong></span>: <span style="font-size: 18px;">a = "Hello", b = "World"
+<strong>Output:</strong> Hello World
+<strong>Explanation</strong>: a and b are printed in a single line and a space separates them.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input</strong></span>: <span style="font-size: 18px;">a = "Geeks", b = "for"
+<strong>Output:</strong> Geeks for
+<strong>Explanation</strong>: a and b are printed in a single line and a space separates them.
+</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>CPP</code>&nbsp;<code>Java</code>&nbsp;<code>python</code>&nbsp;<code>JavaScript</code>&nbsp;<code>C#</code>&nbsp;
