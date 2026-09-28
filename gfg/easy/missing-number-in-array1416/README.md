@@ -37,7 +37,7 @@ Explanation: Only 1 is present so the missing element is 2.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-28T08:22:21.747Z  
+**Submitted:** 2026-09-28T08:22:31.326Z  
 
 ```java
 class Solution {
