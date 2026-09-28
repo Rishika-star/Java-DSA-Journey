@@ -24,7 +24,7 @@ Output: 2 4 6 8 10 12 14 16 18 20
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-28T15:13:06.598Z  
+**Submitted:** 2026-09-28T15:13:50.939Z  
 
 ```java
 import java.util.Scanner;
