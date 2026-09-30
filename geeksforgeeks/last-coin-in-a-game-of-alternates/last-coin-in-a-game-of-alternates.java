@@ -11,6 +11,7 @@ class Solution {
                 right--;
             }
         }
-        return arr[left];
+        return arr[left];//left==right left ki jgh right bhi likh skte h
+        //ye wo condition hogi jb array me ek coin bachega bs
     }
 }
