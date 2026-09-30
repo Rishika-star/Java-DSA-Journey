@@ -47,3 +47,14 @@
 *Last updated: 2026-09-28* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
