@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
