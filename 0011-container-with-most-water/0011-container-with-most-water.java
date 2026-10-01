@@ -1,5 +1,5 @@
 class Solution {
-    public int maxArea(int[] height) {
+    public int maxArea(int[] height) {//ye arraylist nhi h normal array h isliye don't use size() and get
         int maxWater=0;
         int lp=0;
         int rp=height.length-1;//last index tk pohchne k liye
