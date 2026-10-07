@@ -59,6 +59,7 @@
 | [0027-remove-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
