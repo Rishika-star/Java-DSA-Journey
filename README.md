@@ -59,6 +59,7 @@
 | [0027-remove-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1672-richest-customer-wealth) |
@@ -133,5 +134,10 @@
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
