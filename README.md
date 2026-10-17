@@ -58,6 +58,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -143,5 +144,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0035-search-insert-position) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
