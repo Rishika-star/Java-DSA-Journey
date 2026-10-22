@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -152,6 +153,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0035-search-insert-position) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
