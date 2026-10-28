@@ -62,6 +62,7 @@
 | [0035-search-insert-position](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -100,6 +101,7 @@
 | [0031-next-permutation](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
