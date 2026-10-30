@@ -62,6 +62,7 @@
 | [0035-search-insert-position](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1470-shuffle-the-array) |
@@ -75,6 +76,7 @@
 | [0001-two-sum](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -88,6 +90,7 @@
 | [0009-palindrome-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -112,6 +115,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -161,6 +165,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
@@ -182,4 +187,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
