@@ -63,6 +63,7 @@
 | [0066-plus-one](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -91,6 +92,7 @@
 | [0009-palindrome-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -106,6 +108,7 @@
 | [0031-next-permutation](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0344-reverse-string) |
 ## Greedy
