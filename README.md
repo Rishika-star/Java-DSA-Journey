@@ -64,6 +64,7 @@
 | [0088-merge-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 ## String
@@ -189,11 +192,13 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,4 +208,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
