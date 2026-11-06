@@ -97,6 +97,7 @@
 | [0013-roman-to-integer](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -167,6 +168,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
@@ -223,4 +225,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0075-sort-colors) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
