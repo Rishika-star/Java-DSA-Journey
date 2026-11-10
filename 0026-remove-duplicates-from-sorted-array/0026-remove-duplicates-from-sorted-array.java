@@ -1,15 +1,25 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-         int k = 1;
-
-        for (int i = 1; i < nums.length; i++) {
-
-            if (nums[i] != nums[k - 1]) {
-                nums[k] = nums[i];
-                k++;
+         int officer=0;
+         int unique=1;
+         int cm=1;
+         while(cm<nums.length){
+            //DUPLICATE
+            if(nums[cm]==nums[cm-1]){
+                cm++;
+                continue;
             }
-        }
-
-        return k;
+            //UNIQUE
+            nums[officer+1]=nums[cm];
+            officer++;
+            unique++;
+            cm++;
+         }
+           return unique;
     }
+  
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
