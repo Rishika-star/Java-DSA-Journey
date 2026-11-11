@@ -70,6 +70,7 @@
 | [0189-rotate-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -119,6 +120,7 @@
 | [0189-rotate-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0169-majority-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
