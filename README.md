@@ -74,6 +74,7 @@
 | [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1470-shuffle-the-array) |
@@ -128,6 +129,7 @@
 | [0283-move-zeroes](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -144,6 +146,7 @@
 | [0242-valid-anagram](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
