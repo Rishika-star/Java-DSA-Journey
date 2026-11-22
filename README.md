@@ -62,6 +62,7 @@
 | [0027-remove-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
@@ -232,6 +234,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
