@@ -72,6 +72,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0905-sort-array-by-parity) |
@@ -168,6 +169,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## String Matching
 |  |
@@ -201,6 +203,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
@@ -252,4 +255,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0258-add-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rishika-star/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
